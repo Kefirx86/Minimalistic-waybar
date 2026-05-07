@@ -1,0 +1,55 @@
+@import "colors.css";
+
+
+* {
+
+    font-family: "Rubik","JetBrainsMono Nerd Font Propo", "Noto Sans CJK JP", "Noto Sans CJK KR";
+
+}
+
+
+window#waybar{
+    background-color: @ACdarkblue;
+    padding: 2px;
+
+}
+
+
+
+
+
+.modules-center {
+
+    background-color: @ACdarkblue;
+    min-width: 4rem;
+    letter-spacing: -0.5px;
+
+}
+
+
+#clock{
+font-weight: 500;
+}
+
+
+#workspaces button{
+font-weight: 500;
+}
+
+#workspaces button.active{
+background-color: @ACblue;
+}
+
+tooltip {
+    background-color: @ACmidgrey;
+    color: @ACmidgrey;
+    margin: 10px;
+    padding: 18px;
+    border-radius: 12px;
+}
+
+
+
+#battery{
+    letter-spacing: -0.5px;
+}

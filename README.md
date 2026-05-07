@@ -2,7 +2,7 @@
 a very minimalistic waybar and hyprland config for my laptop, semi inspired by armored core for answer (took the colors from there), technically work in progress but idk if i will ever finish it bcz i have terminal laziness
 
 
-Put these 2 inside of /home/<insert your user>/.config/
+Put the waybar folder (most of you probably dont need the hyprland config) inside of /home/<insert your user>/.config/
 
 this is a config i have for my laptop so it displays  battery and such aswell
 to remove it, go inside the config files and delete unnecessary features

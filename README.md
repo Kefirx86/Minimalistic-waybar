@@ -9,6 +9,7 @@ to remove it, go inside the config files and delete unnecessary features
 
 use scripts.sh to refresh waybar so you can see the changes in real time, make sure to make it executable ofc.
 example on how to bind it in hyprland:
+
 bind = $mainMod, D, exec, /home/<insert your user>/.config/waybar/scripts.sh
 
 Extra things if something isnt working:
